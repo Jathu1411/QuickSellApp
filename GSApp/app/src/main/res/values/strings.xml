@@ -1,0 +1,23 @@
+<resources>
+    <string name="msg1">Invalid Password</string>
+    <string name="msg2">Login successful</string>
+    <string name="msg3">Registration successful</string>
+    <string name="msg4">Please enter a valid email</string>
+    <string name="msg5">your password should have at least one character</string>
+    <string name="msg6">Are you sure to delete your account</string>
+    <string name="msg7">Update successful</string>
+    <string name="msg8">No internet connection</string>
+    <string name="msg9">Welcome to QuickSell</string>
+    <string name="msg10">Become a Seller and Buyer at the same time</string>
+    <string name="msg11">Your AD is posted successful</string>
+    <string name="msg12">Back to main menu</string>
+    <string name="msg13">Invalid contact number</string>
+    <string name="msg14">Are you sure to delete your AD?</string>
+    <string name="msg15">Your AD is updated successfully</string>
+    <string name="msg16">Invalid City</string>
+    <string name="msg17">Upload a Picture of your Item</string>
+    <string name="msg18">Image added successfully</string>
+    <string name="msg19">You have a Buyer Request</string>
+    <string name="msg20">Do you Want to add another AD?</string>
+
+</resources>
