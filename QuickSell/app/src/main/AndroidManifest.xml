@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.project.quicksell">
+    package="com.thunderboarsolution.quicksell">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".DeleveryDetails"></activity>
+        <activity android:name=".CustomerDetails" />
+        <activity
+            android:name=".MyShoppingCart"
+            android:parentActivityName=".Home" />
+        <activity
+            android:name=".MyItems"
+            android:parentActivityName=".Home" />
+        <activity
+            android:name=".UserPage"
+            android:parentActivityName=".Home" />
+        <activity
+            android:name=".RegisterPage"
+            android:parentActivityName=".LoginPage" />
+        <activity
+            android:name=".PostAdd"
+            android:parentActivityName=".MyItems" />
+        <activity android:name=".Home" />
+        <activity android:name=".LoginPage">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
